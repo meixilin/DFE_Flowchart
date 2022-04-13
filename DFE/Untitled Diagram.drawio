@@ -1,1 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2022-04-13T01:40:18.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="-sRX2jfW_8_5e7GkjOV-" version="17.4.1" type="github"><diagram id="x9cA2I8mBloLETHf-vX7" name="Page-1">5VfJbtswEP0aH2NosV37WC9pgzStUQNNcwoYaSyxpTgqRW/5+g4taoucwEHsFkUvAvk4w+XNGw7V8SfJ9oNiaXyDIYiO54Tbjj/teN5g6NPXALsc6DmjHIgUD3PIrYAFfwQLOhZd8RCyhqFGFJqnTTBAKSHQDYwphZum2RJFc9WURdACFgETbfSWhzrO0WHfqfCPwKO4WNl17EjCCmMLZDELcVOD/FnHnyhEnbeS7QSE4a7gJfe7fGa03JgCqY9xGHnL+eOddz3GbzD5kv6SX73rCxudTO+KA0NI57ddVDrGCCUTswodK1zJEMysDvUqm0+IKYEugT9A650NJltpJCjWibCjsOX6u3Hv9m3vrjYy3dqZ951drTMHxRPQoCyW791s+FlKLJThSgXwAg+FtJiKQL9g55WBI8ED0m7UjvwUCKb5urkPZqUXlXZVdKhhA/SKYNl510ys7EqLu88Xi8tFK4iZVvizFKzXpJ+EmBq7ZBuZlO0uBW6CmCndzej8+t7YbGKuYZGyPWkbMivpXoPSsH2Z8DZBhUPfCs7eBkObG5sqtcoEimtpNXDORKnXonQKCe554UHHGwjawPhBUSsyrSu5BDorsXIixkMIeMZR/jnK3dGRnJfgyUkftkgvmF6JgukCEbxAUILJ9hSDuBik1avxtofe4Gs9YgWvXWVJd8tRLgTWz/dEQBRh3VTNIUEYKXCqTu8Fj6RRFA/D/aWMNGJkRVhMGBhF8aRWtdz+afRUlLNSTv22nHoH5DQ6l5qKl0JDTqfJTiYlarrYUd4bH2ZJF7DcS4A9gJhjxvU+gacqP+w4RS6pSM3WxGhm11hyISYo0JQuaZRsymg+NSEX7tA5TXRcd9QIj+e0s93vtaMzPFt03FYw/tMXxlufDtZ1btRVBbzn9Q9f78UU+ZPGej0JZrmNN8S3XUFvrhb/1KPEf9ek8K8/Slz/iBvN8kXHZEKAMG+W5AmlLb7TmrwbjjXdH2S5SkgzMVOBzTzXzJrlbafr+YdvulNUnUGz7JwzSNSt/sryPKl+bf3Zbw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-13T01:48:25.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36" etag="ia7OOl42_NbEQ21s3V05" version="17.4.1" type="github">
+  <diagram id="x9cA2I8mBloLETHf-vX7" name="Page-1">
+    <mxGraphModel dx="786" dy="470" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="92fPzY2KBoVeCOpqnR2K-1" target="92fPzY2KBoVeCOpqnR2K-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-1" value="SYN-SFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="153" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="92fPzY2KBoVeCOpqnR2K-2" target="wQgFYXNbr0bSR_NQBkWQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-2" value="Demographic&lt;br&gt;Inference" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="153" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-8" value="&lt;ul&gt;&lt;li&gt;one epoch&lt;/li&gt;&lt;li&gt;two epoch&lt;/li&gt;&lt;li&gt;three epoch&lt;/li&gt;&lt;li&gt;four epoch&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;imageWidth=15;" parent="1" vertex="1">
+          <mxGeometry x="20" y="195" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;rotation=-180;" parent="1" vertex="1">
+          <mxGeometry x="119" y="200" width="34" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="92fPzY2KBoVeCOpqnR2K-12" target="wQgFYXNbr0bSR_NQBkWQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-12" value="MIS-SFS" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="550" y="80" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="92fPzY2KBoVeCOpqnR2K-13" target="wQgFYXNbr0bSR_NQBkWQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="92fPzY2KBoVeCOpqnR2K-13" value="gamma_bounds&lt;br&gt;Npts" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+          <mxGeometry x="240" y="285" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="wQgFYXNbr0bSR_NQBkWQ-2" target="wQgFYXNbr0bSR_NQBkWQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-2" value="&lt;br&gt;Precomputed&lt;br&gt;Reference&amp;nbsp;&lt;br&gt;Spectra" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340" y="195" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-4" value="DFE&lt;br&gt;Inference" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="190" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-7" value="&lt;ul&gt;&lt;li&gt;gamma&lt;/li&gt;&lt;li&gt;lognormal&lt;/li&gt;&lt;li&gt;neu+gamma&lt;/li&gt;&lt;li&gt;neu+let+gamma&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;imageWidth=15;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="wQgFYXNbr0bSR_NQBkWQ-10" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="575" y="262.5" width="50" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
